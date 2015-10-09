@@ -255,7 +255,7 @@ exports.template = '';
 ```
 
 Below is documentation on generator API, also, check out the [generic
-generator](lib/generic_generator).
+generator](./lib/generic_generator.js).
 
 All methods share the first two arguments: `next`, and `env`.
 
